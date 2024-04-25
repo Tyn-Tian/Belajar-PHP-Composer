@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "66fa653e2f01b16f9e225c8752f470c5",
+    "content-hash": "a64782b840435dd0fc963bbe5b14b69a",
     "packages": [
         {
             "name": "christian/belajar-php-composer-library",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library.git",
-                "reference": "fc98e8889a153ad6873040bb3308f4dc46e283db"
+                "reference": "ee519202a72217f1d26746fe5c1b2f4c44a11e14"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Tyn-Tian/Belajar-PHP-Composer-Library/zipball/fc98e8889a153ad6873040bb3308f4dc46e283db",
-                "reference": "fc98e8889a153ad6873040bb3308f4dc46e283db",
+                "url": "https://api.github.com/repos/Tyn-Tian/Belajar-PHP-Composer-Library/zipball/ee519202a72217f1d26746fe5c1b2f4c44a11e14",
+                "reference": "ee519202a72217f1d26746fe5c1b2f4c44a11e14",
                 "shasum": ""
             },
             "require": {
@@ -37,10 +37,10 @@
             ],
             "description": "Belajar PHP Composer Library",
             "support": {
-                "source": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library/tree/Release",
+                "source": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library/tree/2.0.0",
                 "issues": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library/issues"
             },
-            "time": "2024-04-25T04:28:20+00:00"
+            "time": "2024-04-25T06:06:45+00:00"
         },
         {
             "name": "monolog/monolog",

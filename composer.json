@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "christian/belajar-php-composer-library": "1.0.0",
+        "christian/belajar-php-composer-library": "2.0.0",
         "monolog/monolog" : "3.6.0"
     }
 }
