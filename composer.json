@@ -13,5 +13,7 @@
             "email": "kristian2015ok@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog" : "3.6.0"
+    }
 }
