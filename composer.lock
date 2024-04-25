@@ -4,8 +4,44 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8910192e904253f0a89671d1d6c43891",
+    "content-hash": "66fa653e2f01b16f9e225c8752f470c5",
     "packages": [
+        {
+            "name": "christian/belajar-php-composer-library",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library.git",
+                "reference": "fc98e8889a153ad6873040bb3308f4dc46e283db"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Tyn-Tian/Belajar-PHP-Composer-Library/zipball/fc98e8889a153ad6873040bb3308f4dc46e283db",
+                "reference": "fc98e8889a153ad6873040bb3308f4dc46e283db",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Christian\\Belajar\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Christian",
+                    "email": "kristian2015ok@gmail.com"
+                }
+            ],
+            "description": "Belajar PHP Composer Library",
+            "support": {
+                "source": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library/tree/Release",
+                "issues": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library/issues"
+            },
+            "time": "2024-04-25T04:28:20+00:00"
+        },
         {
             "name": "monolog/monolog",
             "version": "3.6.0",
@@ -164,7 +200,9 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=8.0"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
 }

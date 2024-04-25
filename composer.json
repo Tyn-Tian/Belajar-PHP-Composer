@@ -13,7 +13,15 @@
             "email": "kristian2015ok@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tyn-Tian/Belajar-PHP-Composer-Library"
+        }
+    ],
     "require": {
+        "php": ">=8.0",
+        "christian/belajar-php-composer-library": "1.0.0",
         "monolog/monolog" : "3.6.0"
     }
 }
